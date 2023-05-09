@@ -1,0 +1,38 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0%;
+    padding: 0%;
+    
+}
+button {background-color: #5AA2AD; 
+    font-size: 20px; 
+    color:white;
+    padding: 10px 30px; 
+    border: 1px solid #5AA2AD;
+}
+button:hover{
+    cursor: pointer;
+}
+   
+input {
+    padding: 10px 30px;
+    font-size: 15px;
+    text-align: center;
+    margin: 5px auto;
+}
+.container{
+    border: 8px solid orange;
+    width: 70%;
+    border-radius: 34px;
+    margin: 70px auto;
+    padding: 5px;
+}
+a{
+    position: relative;
+    left: 364px;
+    text-decoration: none;
+    color: blue;
+}
+.footer-btn{
+    margin: 2px;
+}

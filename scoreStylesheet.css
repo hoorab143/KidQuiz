@@ -1,0 +1,25 @@
+*{
+    font-family: 'Fraunces', serif;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    font-size: 313%;
+}
+h3{
+    font-size: 170%;
+}
+.outline{
+    margin: 50px auto;
+    padding: 5px;
+    width: 50%;
+    border: 7px solid orange;
+    border-radius: 23px;
+}
+a{
+    text-decoration: underline;
+    color: rgb(197, 131, 9);
+}
+.center-text, p{
+    text-align: center;
+}
